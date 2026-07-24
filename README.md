@@ -22,9 +22,9 @@ A modern and responsive restaurant landing page built using HTML, CSS, Bootstrap
 - Bootstrap 5
 - JavaScript
 
-## 📸 Preview
+## 📸 Website Preview
 
-![Foodie Restaurant](preview.png)
+![Foodie Restaurant](screenshot.jpeg)
 
 ## 👩‍💻 Developed By
 
